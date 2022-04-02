@@ -16,16 +16,11 @@ About 9.1 crashes occur per million miles driven in autonomous vehicles. Regular
 Self-driving cars bring about a plethora of ethical questions. Who should decide which life to save in different scenarios? Who is to blame for an accident involving a self-driving car? While self-driving cars seem to lessen the severity of accidents, they can still crash. At what point is it ethically better to switch to a self-driving car? Is it simply when self-driving cars result in less accidents, or do they need to have a perfect track record with zero accidents? Who gets to make these decisions? The state of autonomous vehicles currently gives us time to think about these questions. Fully driverless cars are not being thrown onto the roads with no regulation, but the technology is still developing. We are likely to come to a point where these questions will need to be answered, and developers will have to ensure their vehicles meet a certain standard. 
 
 
-### Benefits
-
-### Detriments
-
 ## Why Should You Care?
-include a call to action or ground the importance in other topics the reader would care about
+So why should you care about self-driving cars? Technology is developing quickly, and while drivers remain in control now, there may come a day when autonomous vehicles control the roads, and other drivers are the minority. If you drive a regular vehicle, how can you ensure your own safety if companies are not held to the highest standard? If you currently drive a partially autonomous vehicle, do you still remain in control, or do you allow technology that has not been fully developed to handle every scenario control your car and your choices? If you do not drive a car, do you not still walk by roads in which a self-driving car could make an error and hit you? Though drivers remain in control for now, human error causes thousands of accidents every year. If you are a developer, to what standard do you hold yourself? Even if you are not writing the code for a self-driving car, your programs could change lives, so how do you ensure that it is for the better? If you are not a programmer, how does technology affect you every day? I guarantee that if you are reading this, technology is playing a role in your life. How you choose to use it is up to you. 
 
 ## Sources
-TODO: change citation method and order
-* https://www.techtarget.com/searchenterpriseai/definition/driverless-car#:~:text=AI%20software%20in%20the%20car,such%20as%20steering%20and%20brakes.
-* https://www.micron.com/insight/on-the-road-to-full-autonomy-self-driving-cars-will-rely-on-ai-and-innovative-memory
-* https://www.tesla.com/AI
 * https://carsurance.net/insights/self-driving-car-statistics/
+* https://www.micron.com/insight/on-the-road-to-full-autonomy-self-driving-cars-will-rely-on-ai-and-innovative-memory
+* https://www.techtarget.com/searchenterpriseai/definition/driverless-car#:~:text=AI%20software%20in%20the%20car,such%20as%20steering%20and%20brakes.
+* https://www.tesla.com/AI
