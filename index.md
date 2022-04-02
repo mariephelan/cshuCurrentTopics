@@ -18,7 +18,7 @@ Self-driving cars bring about a plethora of ethical questions. Who should decide
 So why should you care about self-driving cars? Technology is developing quickly, and while drivers remain in control now, there may come a day when autonomous vehicles control the roads, and other drivers are the minority. If you drive a regular vehicle, how can you ensure your own safety if companies are not held to the highest standard? If you currently drive a partially autonomous vehicle, do you still remain in control, or do you allow technology that has not been fully developed to handle every scenario control your car and your choices? If you do not drive a car, you still walk by roads in which a self-driving car or even a regular driver could make an error and hit you. Though drivers remain in control for now, human error causes thousands of accidents every year. If you are a developer, to what standard do you hold yourself? Even if you are not writing the code for a self-driving car, your programs could change lives, so how do you ensure that it is for the better? The field of computer science is not strongly regulated compared to other fields, so it is sometimes left up to developers to decide what is acceptable. If you are not a programmer, technology still affects you every day. I guarantee that if you are reading this, technology is playing a role in your life. How you choose to use it is up to you. 
 
 ## Sources
-* https://carsurance.net/insights/self-driving-car-statistics/
-* https://www.micron.com/insight/on-the-road-to-full-autonomy-self-driving-cars-will-rely-on-ai-and-innovative-memory
-* https://www.techtarget.com/searchenterpriseai/definition/driverless-car#:~:text=AI%20software%20in%20the%20car,such%20as%20steering%20and%20brakes.
-* https://www.tesla.com/AI
+* <a href="https://carsurance.net/insights/self-driving-car-statistics/">Carsurance Self Driving Car Statistics</a>
+* <a href="https://www.micron.com/insight/on-the-road-to-full-autonomy-self-driving-cars-will-rely-on-ai-and-innovative-memory">Micron On the Road to Full Autonomy</a>
+* <a href="https://www.techtarget.com/searchenterpriseai/definition/driverless-car#:~:text=AI%20software%20in%20the%20car,such%20as%20steering%20and%20brakes.">TechTarget self-driving car</a>
+* <a href="https://www.tesla.com/AI">Tesla Artificial Intelligence and Autopilot</a>
